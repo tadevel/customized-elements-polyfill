@@ -1,0 +1,14 @@
+{
+  "name": "customized-elements-polyfill",
+  "version": "1.0.0",
+  "description": "A polyfill for supporting customized built-in elements in unsupported browsers (mainly in Safari).",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Alejandro Torrado <alejandro@tadevel.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
